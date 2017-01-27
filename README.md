@@ -12,5 +12,8 @@ This function loads the data from input data folder and process the data to make
 #### 3. information_gain.py  
 This file contains the implementation of splitting criteria named information gain.
 
-#### prediction.py  
+#### 4. prediction.py  
 This file uses the already built structure to predit the class for new data.  
+
+#### 5. input data  
+This folder contains the input data.
