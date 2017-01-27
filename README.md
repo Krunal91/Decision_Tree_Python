@@ -1,4 +1,4 @@
-# Decision Tree Python
+# Decision Tree Implemented in Python
 This project implements decision tree in python. In this project, I am using information gain as a splitting criteria.
 
 ### File names and Descriptions  
